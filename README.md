@@ -6,5 +6,4 @@ I was need translate a lot of lines on database so i create this script for do t
 
 # How It Works?
 
-its simple , you only need to import a XLSX file on the first notebook and before this i will create a SQL code for you, and before this you only need to copy in your DB script
-and translate.
+Its simple , you only need to import a XLSX file on the first notebook and before this it will create a SQL code for you, and after this you only need to copy in your DB script and translate.
